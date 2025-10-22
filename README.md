@@ -354,18 +354,6 @@ _(Ensure the string is URL-encoded if necessary)_
 | Supertest            | HTTP assertions for testing Node.js HTTP servers.                      | [npmjs.com/package/supertest](https://www.npmjs.com/package/supertest)                   |
 | Prettier             | An opinionated code formatter.                                         | [prettier.io](https://prettier.io)                                                       |
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute, please follow these guidelines:
-
-- ✨ **Fork the repository** and clone it to your local machine.
-- 🌿 **Create a new branch** for your feature or bug fix: `git checkout -b feature/your-feature-name`.
-- 💻 **Make your changes** and ensure they adhere to the project's coding style.
-- 🧪 **Write or update tests** to cover your changes.
-- ✅ **Ensure all tests pass** (`npm test`).
-- 📝 **Commit your changes** with a clear and concise message.
-- ⬆️ **Push your branch** to your fork: `git push origin feature/your-feature-name`.
-- 🤝 **Open a Pull Request** to the `main` branch of this repository.
 
 ## License
 
