@@ -45,7 +45,7 @@ To get this API up and running locally, follow these simple steps:
 
 5.  **Run in Production Mode**:
     ```bash
-    npm run start:prod
+    npm run start
     ```
 
 ### Environment Variables
@@ -58,6 +58,10 @@ The following environment variables are required to run the project. Create a `c
   - Example: `NODE_ENV=development`
 
 ## API Documentation
+
+### Live Endpoint
+
+The live endpoint for this API is: `https://paulssss.osc-fr1.scalingo.io/strings`
 
 ### Base URL
 
