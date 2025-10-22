@@ -9,3 +9,10 @@ const server = app.listen(PORTS, () => {
   console.log(`Server is running on port ${PORTS}`);
   console.log("Running Environment:", NODE_ENV);
 });
+
+process.on("uncaughtException", (err) =>
+  console.error("Uncaught Exception:", err)
+);
+process.on("unhandledRejection", (err) =>
+  console.error("Unhandled Rejection:", err)
+);
